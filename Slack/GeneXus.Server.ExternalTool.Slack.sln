@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneXus.Server.ExternalTool.Slack", "GeneXus.Server.ExternalTool.Slack.csproj", "{8A9A1DEB-BE92-49CE-95E0-E5E92FDDF89B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneXus.Server.ExternalTool", "..\ExternalTool\GeneXus.Server.ExternalTool.csproj", "{2A9AC869-AD38-448E-B2CD-9FEFA412D1BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A9A1DEB-BE92-49CE-95E0-E5E92FDDF89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A9A1DEB-BE92-49CE-95E0-E5E92FDDF89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A9A1DEB-BE92-49CE-95E0-E5E92FDDF89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A9A1DEB-BE92-49CE-95E0-E5E92FDDF89B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9AC869-AD38-448E-B2CD-9FEFA412D1BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9AC869-AD38-448E-B2CD-9FEFA412D1BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9AC869-AD38-448E-B2CD-9FEFA412D1BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9AC869-AD38-448E-B2CD-9FEFA412D1BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53AED9A4-18B5-4B78-8134-1B5B8771551A}
+	EndGlobalSection
+EndGlobal
