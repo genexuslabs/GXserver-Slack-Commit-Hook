@@ -1,7 +1,4 @@
-# GXServer-Slack
-GXServer-Slack integration
-
-# GXServer-Slack
+# GXserver-Slack-Commit-Hooker
 GXServer-Slack integration
 
 ## This repository contains:
