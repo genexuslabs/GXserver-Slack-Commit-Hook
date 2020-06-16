@@ -2,41 +2,6 @@
 
 namespace GeneXus.Server.ExternalTool
 {
-    public class IssueElement
-    {
-        public string Id { get; set; }
-        public string Status { get; set; }
-        public string Project { get; set; }
-        public string To { get; set; }
-
-        public IssueElement(string i)
-            : this(i, string.Empty)
-        {
-        }
-
-        public IssueElement(string i, string s)
-            : this(i, s, string.Empty)
-        {
-        }
-
-        public IssueElement(string i, string s, string p)
-           : this(i, s, p, string.Empty)
-        {
-        }
-
-        public IssueElement(string i, string s, string p, string t)
-        {
-            Id = i;
-            Status = s;
-            Project = p;
-            To = t;
-        }
-        public IssueElement()
-        {
-            
-        }
-    }
-
     public class CommitData
 
     {
