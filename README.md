@@ -1,7 +1,7 @@
 # GXServer-Slack
 GXServer-Slack integration
 
-#License
+# License
 
    Copyright 2020 GeneXus
 
